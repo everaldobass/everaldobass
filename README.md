@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Everaldo Nascimento** is a ✨ _special_ ✨ bem vindos `README.md` (this file) ao meu GitHub.
+**Everaldo Nascimento** Bem Vindos ao mu Portifolio no GitHub.
 
 Contact-me on:
 [LinkedIn](https://www.linkedin.com/in/everaldo-nascimento-44678358/)
