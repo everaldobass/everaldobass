@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!--
-**everaldobass/everaldobass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Everaldo Nascimento** is a ✨ _special_ ✨ bem vindos `README.md` (this file) ao meu GitHub profile.
 
 Contact-me on:
 [LinkedIn](https://www.linkedin.com/in/everaldo-nascimento-44678358/)
 
+![Everaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=everaldobass&theme=midnight-purple&show_icons=true)
 
-![Everaldo's github stats](https://github-readme-stats.vercel.app/api?username=everaldobass&show_icons=true&theme=radical)
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
