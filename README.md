@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-**Everaldo Nascimento** is a ✨ _special_ ✨ bem vindos `README.md` (this file) ao meu GitHub profile.
+**Everaldo Nascimento** is a ✨ _special_ ✨ bem vindos `README.md` (this file) ao meu GitHub.
 
 Contact-me on:
 [LinkedIn](https://www.linkedin.com/in/everaldo-nascimento-44678358/)
 
-![Everaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=everaldobass&theme=midnight-purple&show_icons=true)
+![Everaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=everaldobass&theme=yeblu&show_icons=true)
 
 <!--
 Here are some ideas to get you started:
