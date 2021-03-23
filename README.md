@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Everaldo Nascimento** Bem Vindos ao mu Portifolio no GitHub.
+**Everaldo Nascimento** Bem Vindos, Portifolio no GitHub.
 
 Contact-me on:
 [LinkedIn](https://www.linkedin.com/in/everaldo-nascimento-44678358/)
