@@ -7,7 +7,7 @@ Contact-me on:
 [LinkedIn](https://www.linkedin.com/in/everaldo-nascimento-44678358/)
 
 ![Everaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=everaldobass&theme=yeblu&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everaldobass&layout=compact)](https://github.com/everaldobass/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everaldobass&langs_count=8)](https://github.com/everaldobass/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
